@@ -1,3 +1,6 @@
+
+![banner](https://github.com/user-attachments/assets/f6e130b8-155e-40b0-be2a-419b116ef988)
+
 <h1 align="center">Hi, I'm Alexandra Akinyemi 💛</h1>
 <h3 align="center">Software Engineer</h3>
 
