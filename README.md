@@ -2,13 +2,14 @@
 ![banner](https://github.com/user-attachments/assets/f6e130b8-155e-40b0-be2a-419b116ef988)
 
 <h1 align="center">Hi, I'm Alexandra Akinyemi 💛</h1>
-<h3 align="center">Software Engineer</h3>
+I’m a Software Engineer working with both frontend and backend development to build dynamic web applications. I have experience with JavaScript, React, Express, MongoDB, Node.js, HTML, and CSS. I'm dedicated to continuously learning and implementing emerging technologies and tools to solve complex problems.
 
-- 🔭 I’m currently working on **A natural hair tracker application where user with any curl pattern can track their natural hair journey**
 
-- 🌱 I’m currently learning **Node.js, Express, MongoDB**
+- 👩🏾‍💻 I’m currently working on **A natural hair tracker application where user with any curl pattern can track their natural hair journey**
 
-- 👨‍💻 All of my projects are available at [https://alexandraakinyemi.netlify.app/](https://alexandraakinyemi.netlify.app/)
+- 📖 I’m currently learning **Node.js, Express, MongoDB**
+
+- 🌐 All of my projects are available at [https://alexandraakinyemi.netlify.app/](https://alexandraakinyemi.netlify.app/)
 
 - 📫 How to reach me **aakinyemi.dev@gmail.com**
 
