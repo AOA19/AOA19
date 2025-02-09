@@ -11,9 +11,6 @@ I’m a Software Engineer working with both frontend and backend development to 
 
 - 🌐 All of my projects are available at [https://alexandraakinyemi.netlify.app/](https://alexandraakinyemi.netlify.app/)
 
-- 📫 How to reach me **aakinyemi.dev@gmail.com**
-
-- ⚡ Fun fact **I love to sing. If I wasn't a software engineer I would probably be a singer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
