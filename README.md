@@ -7,7 +7,7 @@ I’m a Software Engineer working with both frontend and backend development to 
 
 - 👩🏾‍💻 I’m currently working on **A natural hair tracker application where user with any curl pattern can track their natural hair journey**
 
-- 📖 I’m currently learning **Node.js, Express, MongoDB**
+- 📖 I’m currently learning **Typescript**
 
 - 🌐 All of my projects are available at [https://alexandraakinyemi.netlify.app/](https://alexandraakinyemi.netlify.app/)
 
